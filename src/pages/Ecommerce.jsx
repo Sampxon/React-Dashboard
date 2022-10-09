@@ -7,7 +7,11 @@ import { earningData, SparklineAreaData, ecomPieChartDat } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 
 const Ecommerce = () => {
-  return <div>Ecommerce</div>;
+  return <div className=''>
+    
+  </div>;
 };
 
 export default Ecommerce;
+
+// 
